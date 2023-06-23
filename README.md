@@ -1,10 +1,10 @@
 <img width="1600" alt="From Zero to Hero" src="https://user-images.githubusercontent.com/103318089/184580274-219a8e5c-29c7-4c06-b6d5-af4b015880ba.png">
 
-# Flask App
+## :speech_balloon: Intro
 
-This is a Flask application that provides a web interface for Recommendation engine.
+This is a Flask application that provides a web interface for the Instacart Recommendation engine
 
-## Installation
+## :package: Installation
 
 1. Copy the flask app to desired location.
 
@@ -39,7 +39,7 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-## Usage
+## :hammer: Usage
 
 1. Start the Flask app by running the following command:
 
@@ -52,3 +52,8 @@ python app.py
 3. Interact with the web interface.
 
 4. To stop the Flask app, press `Ctrl+C` in the terminal.
+
+## :penguin: Author
+
+- Author : Diana Fernandez
+- Email : dianaf@student.ie.edu
