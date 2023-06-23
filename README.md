@@ -1,4 +1,5 @@
-<img width="1600" alt="From Zero to Hero" src="https://user-images.githubusercontent.com/103318089/184580274-219a8e5c-29c7-4c06-b6d5-af4b015880ba.png">
+
+<img width="1600" alt="Screenshot 2023-06-22 135026" src="https://github.com/dianisley/AI_Retail_Individual/assets/103318089/3bbc64ba-5307-4388-b679-853296cf82f5">
 
 ## :speech_balloon: Intro
 
