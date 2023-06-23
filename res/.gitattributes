@@ -2,3 +2,4 @@
 res/basket.ann filter=lfs diff=lfs merge=lfs -text
 res/products.pkl filter=lfs diff=lfs merge=lfs -text
 res/order_basket.pkl filter=lfs diff=lfs merge=lfs -text
+.pkl filter=lfs diff=lfs merge=lfs -text
