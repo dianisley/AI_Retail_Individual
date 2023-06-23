@@ -15,7 +15,6 @@ The RecommendationEngine class provides the following methods:
 - generatePredictions: Generates product recommendations based on user preferences, product lists, and a specified day and time.
 - tSNEPlot: Generates a t-SNE plot to visualize product vectors in a 2D space, highlighting recommendations and input products.
 
-File name: engine.py
 """
 
 import plotly.express as px
